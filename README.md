@@ -36,13 +36,13 @@ SPACE – okamžité zhodenie bloku
 🏗 Project Structure
 Projekt je rozdelený do viacerých tried:
 
-Main – vstupný bod aplikácie
-GameWindow – hlavné herné okno
-HraTetris – herná logika a vykresľovanie
-HernaPlocha – správa hernej mriežky
-TvarBloku – definícia a rotácie blokov
-SpravcaSkore – správa bodovania
-OvladanieHry – spracovanie vstupov
+- Main – vstupný bod aplikácie
+- GameWindow – hlavné herné okno
+- HraTetris – herná logika a vykresľovanie
+- HernaPlocha – správa hernej mriežky
+- TvarBloku – definícia a rotácie blokov
+- SpravcaSkore – správa bodovania
+- OvladanieHry – spracovanie vstupov
 
 Takéto rozdelenie umožňuje jednoduché rozširovanie projektu (napr. animácie, nové režimy hry, ukladanie skóre).
 
