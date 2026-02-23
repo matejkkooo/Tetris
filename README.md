@@ -19,6 +19,6 @@ Matej Holeš – implementácia, návrh logiky, testovanie
 
 USER INSTRUCTIONS:
 Pomocou šípok ovládate padacie bloky (doľava, doprava, otáčanie). Medzerník
-okamžite zhodí blok úplne dole. Kláves P slúži na pozastavenie a pokračovanie.
+okamžite zhodí blok úplne dole.
 Cieľom je vytvárať plné riadky, získavať body a zabrániť tomu, aby sa bloky
 dostali až na vrch hernej plochy.
